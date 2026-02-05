@@ -1,0 +1,8 @@
+{
+  "targetRoles": ["CEO", "C-Level", "Director", "Gerente", "Dueño", "Cofundador"],
+  "industry": "consultoría estratégica",
+  "country": "España",
+  "city": "Madrid",
+  "companySize": "11-50",
+  "keywords": ["transformación digital", "estrategia", "crecimiento B2B"]
+}
